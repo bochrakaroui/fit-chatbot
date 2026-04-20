@@ -1,0 +1,102 @@
+[
+{
+"instruction": "What is TDEE and how do I calculate mine accurately?",
+"input": "",
+"output": "TDEE stands for Total Daily Energy Expenditure, the total calories you burn in a day including exercise and daily activities. To calculate it, first find your BMR using the Mifflin-St Jeor equation, then multiply by an activity factor: 1.2 for sedentary, 1.375 for light activity (1 to 3 days of exercise), 1.55 for moderate (3 to 5 days), 1.725 for very active (6 to 7 days). For example, a moderately active 80 kg male might have a TDEE around 2500 to 2800 calories. Track your weight for 2 weeks while eating at estimated TDEE; if weight stays stable, you have found your true maintenance."
+},
+{
+"instruction": "How do I track my macros without going crazy or becoming obsessive?",
+"input": "",
+"output": "Start by tracking just protein and calories for 2 weeks, then add carbs and fats once that feels automatic. Use an app like MyFitnessPal or Cronometer, but aim for 80 to 90 percent accuracy instead of perfect logging. Pre-track your meals in the morning or batch log ingredients when meal prepping to reduce daily friction. If you feel anxious about going over a number, switch to portion-based tracking (palm of protein, fist of carbs) for 1 to 2 weeks as a mental reset."
+},
+{
+"instruction": "What are the best foods to meal prep for a full week of fat loss?",
+"input": "",
+"output": "Lean proteins like chicken breast, lean ground turkey, tofu, and egg whites are excellent because they stay good for 4 to 5 days. Complex carbs such as sweet potatoes, quinoa, brown rice, and black beans prep well and provide steady energy. Vegetables like broccoli, bell peppers, zucchini, and spinach can be roasted in bulk and added to each meal. Use different low-calorie sauces (hot sauce, salsa, mustard, vinegar) to rotate flavors so you do not get bored by day 4."
+},
+{
+"instruction": "How many grams of protein, carbs, and fat should I eat for body recomposition?",
+"input": "",
+"output": "Set protein at 1.8 to 2.2 grams per kg of body weight (0.82 to 1.0 grams per pound). Fats should be 20 to 30 percent of total calories, roughly 0.5 to 0.7 grams per pound of body weight to support hormones. Fill the remaining calories with carbohydrates, typically 2 to 3 grams per pound of body weight for active individuals. For a 75 kg person eating 2200 calories, that looks like 150g protein, 60g fat, and 240g carbs. Adjust carbs up or down based on energy levels and training intensity."
+},
+{
+"instruction": "How do I meal prep for 5 days without food going bad by Friday?",
+"input": "",
+"output": "Cook only 3 to 4 days worth of perishable items like cooked chicken or fish, and prep dry or hardy ingredients for days 4 and 5. Store meals in airtight glass containers and refrigerate at or below 4 degrees Celsius (40 degrees Fahrenheit). For day 5, use frozen vegetables that you add directly to the container without thawing, or prep ingredients like chopped veggies and raw marinated protein to cook quickly on day 4. Cooked rice and grains can be frozen in portions and microwaved directly from frozen."
+},
+{
+"instruction": "What is the difference between BMR and TDEE and why does it matter?",
+"input": "",
+"output": "BMR is your Basal Metabolic Rate, the calories you would burn in a coma just to keep your heart, lungs, and organs functioning. TDEE includes BMR plus all movement: walking, fidgeting, exercise, and digestion. BMR typically accounts for 60 to 75 percent of TDEE. You use BMR to understand your baseline, but TDEE is what matters for setting calorie targets. Eating below BMR for extended periods can cause muscle loss and metabolic slowdown, so deficits should be calculated from TDEE, not BMR."
+},
+{
+"instruction": "Should I track macros on weekends and rest days too?",
+"input": "",
+"output": "Yes, track at least loosely on weekends because a single Saturday of overeating can erase a week's deficit of 250 calories per day. If tracking feels too restrictive, use a simplified method: maintain protein intake, keep carbs moderate, and limit high-fat treats to one meal instead of all day. Many people find that tracking 6 days per week and taking 1 flexible day (not a binge day) works well for adherence. A rest day typically needs 200 to 400 fewer carbs than a training day, but protein and fat remain the same."
+},
+{
+"instruction": "How do I find my maintenance calories without using an online calculator?",
+"input": "",
+"output": "Eat the same amount of calories every day for 14 days while weighing yourself each morning after using the bathroom. Track your weekly average weight; if it stays within 0.5 pounds of the starting average, you have found maintenance. If you gain weight, reduce calories by 100 to 200 per day and repeat for another week. If you lose weight, add 100 to 200 calories. This self-experimentation method is more accurate than any calculator because it accounts for your unique metabolism and activity level."
+},
+{
+"instruction": "What are the most time-efficient meal prep strategies for a busy person?",
+"input": "",
+"output": "Use the cook once, eat twice method: roast 2 trays of vegetables and 2 trays of protein simultaneously in the oven at 400 degrees Fahrenheit for 20 to 25 minutes. Batch cook one grain like quinoa or rice in a rice cooker while you chop ingredients. Use pre-cut frozen vegetables and canned beans to eliminate chopping time. Repurpose leftovers: extra grilled chicken becomes chicken salad for lunch, or roasted vegetables go into an omelet for breakfast. Total active cooking time can be under 90 minutes for 5 days of lunches and dinners."
+},
+{
+"instruction": "How do I adjust my calorie intake for fat loss when my weight loss stalls?",
+"input": "",
+"output": "First, recalculate your TDEE because losing 10 pounds reduces your maintenance by roughly 50 to 100 calories. If you have been dieting for 8 to 12 weeks, take a 2 week diet break at maintenance to reset hormones. Otherwise, reduce calories by 150 to 250 per day from carbs or fats, not protein. Increase daily steps by 2,000 to 3,000 instead of cutting more food if you are already below 1,500 calories (women) or 1,800 calories (men). A stall lasting less than 3 weeks is often just water weight; wait it out before adjusting."
+},
+{
+"instruction": "Do I need to track calories forever to maintain my results?",
+"input": "",
+"output": "No, most people can transition to intuitive eating after 3 to 6 months of consistent tracking because they learn accurate portion sizes. Use a maintenance phase of 4 to 8 weeks where you track every other day to build intuition. Eventually, you can switch to spot checking: track 3 days per month to catch portion creep before it adds 5 to 10 pounds. Many successful maintainers use visual cues: protein portion = palm, carbs = cupped hand, fats = thumb size, vegetables = fist."
+},
+{
+"instruction": "What are the biggest mistakes people make when tracking macros?",
+"input": "",
+"output": "Forgetting to track cooking oils, sauces, and drinks, which can add 200 to 500 hidden calories per day. Using generic database entries instead of weighing food, leading to 20 to 30 percent portion errors. Not tracking on weekends, then wondering why fat loss is slow. Chasing perfect numbers instead of consistency; missing a macro target by 10 percent on any given day does not matter. Finally, setting protein too low (under 1.6 g per kg) and fat too low (under 0.4 g per pound), which harms muscle retention and hormone function."
+},
+{
+"instruction": "How do I meal prep for a family when others don't want to eat the same food?",
+"input": "",
+"output": "Cook modular meals: prepare plain protein (grilled chicken, baked fish, tofu) and basic carbs (rice, potatoes), then let family add different sauces, cheeses, or sides. Use a Sunday prep of 2 to 3 proteins, 2 starches, and 3 vegetable options that can be mixed and matched. For example, taco bowls: your bowl has chicken, black beans, salsa, and lettuce; family adds sour cream, cheese, and tortilla chips to theirs. Keep your prepped components in separate containers so everyone assembles their own plate."
+},
+{
+"instruction": "What is the ideal meal prep schedule for someone who works 9 to 5?",
+"input": "",
+"output": "Shop on Saturday morning, then cook for 2 hours on Sunday afternoon: 60 minutes for proteins and grains, 30 minutes for chopping vegetables, 30 minutes for assembly and cleanup. Prep breakfast for 5 days (overnight oats or egg muffins) and lunches for 5 days (grain bowls). For dinners, prep ingredients but not full meals: marinated protein, washed veggies, cooked rice, so you can cook fresh in 15 minutes each night. Freeze 2 to 3 portions of your Sunday prep on day 1, then thaw them for Thursday and Friday to avoid 5 day old food."
+},
+{
+"instruction": "How do I calculate my TDEE if I have a physically active job plus exercise?",
+"input": "",
+"output": "Use the moderate activity multiplier (1.55) as a starting point, then track your weight and calories for 2 weeks to refine. For active jobs like construction or nursing, you may need the very active multiplier (1.725). Add your intentional exercise calories separately using a conservative estimate: 6 to 8 calories per minute for weight training, 8 to 10 calories per minute for running or cycling. A better approach is wearing a fitness tracker for 2 weeks to see your actual daily burn, then averaging it. Do not double-count activity: choose one method and stick to it consistently."
+},
+{
+"instruction": "Can I meal prep healthy food on a very low budget?",
+"input": "",
+"output": "Yes, focus on eggs, canned tuna, chicken thighs (cheaper than breasts), dried beans, lentils, rice, oats, frozen vegetables, and in-season produce like cabbage and sweet potatoes. Buy in bulk from discount stores or warehouse clubs: 10 pound bags of rice, 5 pound bags of beans, and family packs of chicken that you freeze in portions. Skip pre-cut vegetables, protein powders, and specialty health foods, which cost 2 to 3 times more per serving. A week of meal prep for one person can cost as little as 35 to 50 dollars with smart choices."
+},
+{
+"instruction": "How do I track macros when eating out at restaurants?",
+"input": "",
+"output": "Choose restaurants with nutrition info online or on the menu, like chain restaurants. If no info is available, use visual estimation: protein portion = size of your palm (3 to 4 oz), carbs = cupped hand (1/2 to 1 cup), fats = thumb size (1 tablespoon). Overestimate by 20 to 30 percent for hidden oils and sauces. Log generic database entries like grilled chicken sandwich or fajitas without tortillas. For buffet or family style, fill half your plate with vegetables and salad before adding other items."
+},
+{
+"instruction": "Is it necessary to hit my macro targets exactly every single day?",
+"input": "",
+"output": "No, aim for within 10 percent of your calorie target and within 15 to 20 grams on protein, carbs, and fat. Daily fluctuations of 100 to 200 calories have minimal impact on long-term body composition. What matters is your weekly average: hitting your calorie target 6 out of 7 days produces 85 to 90 percent of the results. Protein is the most important macro to hit consistently because it protects muscle; being 10 grams low on fat or carbs occasionally does not matter. Do not stress over perfect numbers; consistency over months beats perfection on any single day."
+},
+{
+"instruction": "How do I transition from meal prepping to cooking fresh without losing progress?",
+"input": "",
+"output": "Start by prepping only ingredients, not full meals: wash and chop vegetables, cook grains, portion protein, and make 2 to 3 sauces. Then each night, combine these components in 10 to 15 minutes for a fresh meal. Keep a pantry of quick staples: canned beans, frozen shrimp, pre-cooked brown rice pouches, and bagged salad greens. Phase out one prepped meal per week, replacing it with a 15 minute fresh meal like an omelet, stir-fry, or grain bowl. Within 4 to 6 weeks, you can switch entirely to cooking fresh while keeping the same nutritional quality."
+},
+{
+"instruction": "What macro split should I use for aggressive fat loss while keeping muscle?",
+"input": "",
+"output": "Set protein high at 2.2 to 2.6 grams per kg of body weight (1.0 to 1.2 grams per pound) to maximize muscle preservation. Fats should stay at 0.4 to 0.5 grams per pound to maintain hormone function, never dropping below 0.3 grams per pound. Carbs fill the remainder but may go as low as 1 gram per pound on rest days. For a 80 kg person eating 1800 calories (500 deficit), that is roughly 180g protein, 55g fat, 130g carbs. Run this aggressive deficit for no more than 8 to 10 weeks, then diet break for 2 weeks at maintenance to reset metabolic adaptations."
+}
+]

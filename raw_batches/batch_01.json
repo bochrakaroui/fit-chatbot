@@ -1,0 +1,102 @@
+[
+{
+"instruction": "How much protein should I eat per day to build muscle effectively?",
+"input": "",
+"output": "A good evidence-based range is 1.6 to 2.2 grams of protein per kilogram of body weight per day. For example, if you weigh 70 kg, you should aim for 112 to 154 grams daily. This range supports optimal muscle protein synthesis when combined with resistance training. Going above this range usually does not provide additional muscle gain benefits."
+},
+{
+"instruction": "Is it better to take protein before or after a workout?",
+"input": "",
+"output": "Total daily protein intake matters more than exact timing. However, consuming 20 to 40 grams of protein within 1–2 hours after training can support muscle recovery. Having protein before training can also help reduce muscle breakdown during exercise. Consistency across the day is more important than a strict timing window."
+},
+{
+"instruction": "Can I build muscle without using protein powder?",
+"input": "",
+"output": "Yes, protein powder is not required to build muscle. You can get enough protein from whole foods like chicken, eggs, fish, dairy, legumes, and meat. The key is reaching your daily protein target consistently. Supplements are just a convenient option, not a necessity."
+},
+{
+"instruction": "How big should my calorie surplus be for lean bulking?",
+"input": "",
+"output": "A lean bulk typically requires a small calorie surplus of about 200 to 400 calories per day. This helps maximize muscle gain while minimizing fat accumulation. Larger surpluses often lead to faster fat gain rather than additional muscle. Adjust based on weekly weight gain of around 0.25 to 0.5% of body weight."
+},
+{
+"instruction": "What happens if my calorie surplus is too high?",
+"input": "",
+"output": "A very large calorie surplus increases the rate of fat gain significantly. While muscle gain may slightly increase, most excess energy will be stored as fat. This can make future cutting phases longer and more difficult. A controlled surplus is more efficient for long-term body composition improvement."
+},
+{
+"instruction": "What rep range is best for muscle hypertrophy?",
+"input": "",
+"output": "Muscle hypertrophy is effectively stimulated in a wide rep range of about 6 to 15 repetitions per set. The key factor is training close to muscular failure with good form. Heavier loads build strength, while moderate loads improve volume tolerance. Combining different rep ranges can enhance overall muscle growth."
+},
+{
+"instruction": "How often should I train each muscle group for hypertrophy?",
+"input": "",
+"output": "Training each muscle group 2 times per week is generally optimal for hypertrophy. This frequency allows enough stimulus while providing recovery time. Total weekly volume matters more than single-session intensity. Splitting volume across multiple sessions improves growth efficiency."
+},
+{
+"instruction": "Do I need protein before bed to gain muscle?",
+"input": "",
+"output": "Consuming protein before bed can support overnight muscle recovery. A slow-digesting source like casein protein or dairy is often recommended. Around 20 to 40 grams is typically sufficient. However, total daily protein intake remains the most important factor."
+},
+{
+"instruction": "How should I distribute protein across meals during the day?",
+"input": "",
+"output": "It is beneficial to spread protein intake evenly across 3 to 5 meals per day. Each meal should ideally contain 20 to 40 grams of high-quality protein. This helps maximize muscle protein synthesis multiple times per day. Uneven distribution is less efficient for muscle growth."
+},
+{
+"instruction": "How do I know if I am eating in a calorie surplus?",
+"input": "",
+"output": "The most reliable method is tracking body weight over time. If you gain around 0.25 to 0.5% of your body weight per week, you are likely in a surplus. If weight is stable, you are at maintenance. Consistent increases in weight and performance usually confirm a surplus."
+},
+{
+"instruction": "Can I build muscle while losing fat at the same time?",
+"input": "",
+"output": "Yes, this is called body recomposition and is most common in beginners or people returning to training. It requires high protein intake and progressive resistance training. Calorie intake is usually around maintenance or a slight deficit. However, muscle gain is slower compared to a dedicated bulk."
+},
+{
+"instruction": "How much protein does a beginner need for muscle growth?",
+"input": "",
+"output": "Beginners should aim for 1.6 to 2.0 grams of protein per kilogram of body weight daily. This supports rapid adaptation to resistance training. Beginners often build muscle more efficiently than advanced lifters, even at similar protein intake. Consistency in both diet and training is key."
+},
+{
+"instruction": "Is whey protein better than food for muscle gain?",
+"input": "",
+"output": "Whey protein is not superior to whole food in terms of muscle gain, but it is more convenient. It digests quickly and helps meet daily protein targets easily. Whole foods provide additional nutrients like fiber, vitamins, and minerals. The best choice depends on lifestyle and dietary needs."
+},
+{
+"instruction": "Is there a limit to how much protein the body can absorb per meal?",
+"input": "",
+"output": "There is no strict absorption limit, but muscle protein synthesis is optimized per meal. Around 20 to 40 grams of protein per meal is sufficient to maximize this response. Excess protein is still digested and used for other body functions. Spreading intake across the day is more important than focusing on a single large dose."
+},
+{
+"instruction": "What is the difference between hypertrophy training and strength training?",
+"input": "",
+"output": "Hypertrophy training focuses on muscle size using moderate weights and higher volume. Strength training focuses on lifting heavier weights with lower repetitions. Both can build muscle, but hypertrophy training is more volume-oriented. Combining both methods often produces the best overall results."
+},
+{
+"instruction": "Does cardio affect muscle hypertrophy negatively?",
+"input": "",
+"output": "Moderate cardio does not significantly interfere with muscle growth. Excessive cardio combined with low calorie intake can reduce recovery capacity. Keeping cardio sessions separate from strength training helps minimize interference. Proper nutrition ensures both endurance and muscle goals can coexist."
+},
+{
+"instruction": "How long should a bulking phase last for muscle gain?",
+"input": "",
+"output": "A bulking phase can last anywhere from 3 to 9 months depending on goals and body composition. The key is maintaining a controlled calorie surplus and progressive overload. Longer bulks allow more muscle gain but may increase fat accumulation. Regular monitoring helps decide when to switch to a cutting phase."
+},
+{
+"instruction": "Should I eat the same amount of protein on rest days?",
+"input": "",
+"output": "Yes, protein intake should remain consistent on both training and rest days. Muscle repair and growth continue during recovery periods. Reducing protein on rest days can slow down overall progress. Maintaining daily intake ensures continuous muscle protein synthesis support."
+},
+{
+"instruction": "What calorie surplus is best for someone who struggles to gain weight?",
+"input": "",
+"output": "A surplus of 300 to 500 calories per day is often effective for hard gainers. If weight still does not increase, the surplus can be gradually increased. Tracking weekly weight gain is essential for adjustments. Aim for slow and steady increases rather than rapid fat gain."
+},
+{
+"instruction": "What are signs that I am not eating enough protein for muscle growth?",
+"input": "",
+"output": "Common signs include slow recovery, persistent muscle soreness, and lack of strength progression. You may also notice difficulty gaining or maintaining muscle mass. Hunger fluctuations and low satiety after meals can also appear. Increasing protein intake to recommended levels usually resolves these issues over time."
+}
+]
