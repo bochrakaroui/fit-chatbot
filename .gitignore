@@ -1,0 +1,16 @@
+# Model weights — too large for GitHub (use HuggingFace Hub instead)
+*.gguf
+*.bin
+*.safetensors
+phi3-fitness-merged/
+phi3-fitness/
+
+# Python cache
+__pycache__/
+*.pyc
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+EOF
