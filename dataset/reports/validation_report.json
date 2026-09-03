@@ -1,0 +1,17 @@
+{
+  "records": 3993,
+  "invalid_record_indexes": [],
+  "exact_duplicate_groups": 0,
+  "semantic_duplicate_groups": 3,
+  "boilerplate_suffixes": 0,
+  "contextual_records": 116,
+  "review_queue_records": 242,
+  "review_reasons": {
+    "fixed_ninety_degree_limit": 1,
+    "heels_off_ground": 3,
+    "high_risk_topic": 62,
+    "knee_over_toe_absolute": 21,
+    "medium_risk_topic": 151,
+    "spot_reduction": 7
+  }
+}

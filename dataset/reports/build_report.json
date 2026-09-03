@@ -1,0 +1,44 @@
+{
+  "build": {
+    "schema_version": 2,
+    "raw_files": 21,
+    "raw_rows": 4189,
+    "curated_rows": 751,
+    "valid_rows": 4188,
+    "invalid_rows": 1,
+    "duplicate_rows_removed": 245,
+    "excluded_raw_rows": 556,
+    "curated_replacements": 145,
+    "curated_additions": 606,
+    "boilerplate_suffixes_removed": 4312,
+    "contextual_rows": 116,
+    "output_rows": 3993,
+    "output_sha256": "0ede48f12106cc62c7e33b83064380ff4c35d5a69e5da9055d8a45327ec183f5"
+  },
+  "profile": {
+    "schema_version": 2,
+    "records": 3993,
+    "contextual_records": 116,
+    "semantic_duplicate_groups": 3,
+    "answer_words": {
+      "min": 1,
+      "median": 24,
+      "p95": 98,
+      "max": 175
+    },
+    "topics": {
+      "cardio": 178,
+      "exercise_form": 355,
+      "general_fitness": 2303,
+      "nutrition": 522,
+      "programming": 360,
+      "recovery": 235,
+      "supplements": 40
+    },
+    "risk_levels": {
+      "high": 62,
+      "low": 3780,
+      "medium": 151
+    }
+  }
+}

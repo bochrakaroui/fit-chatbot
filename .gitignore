@@ -1,4 +1,4 @@
-# Model weights — too large for GitHub (use HuggingFace Hub instead)
+# Model weights - too large for GitHub (use Hugging Face Hub instead)
 *.gguf
 *.bin
 *.safetensors
@@ -13,4 +13,15 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
-EOF
+# Local environments and generated artifacts
+.venv/
+.pytest_cache/
+.pytest-tmp/
+.ruff_cache/
+htmlcov/
+coverage.xml
+.coverage
+artifacts/
+dataset/reports/*.tmp
+dataset/reports/review_queue.json
+dataset/splits/*.jsonl

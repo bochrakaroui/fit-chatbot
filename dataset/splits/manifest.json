@@ -1,0 +1,54 @@
+{
+  "strategy": "stable SHA-256 assignment by normalized prompt family",
+  "ratios": {
+    "train": 0.8,
+    "validation": 0.1,
+    "test": 0.1
+  },
+  "counts": {
+    "train": 3008,
+    "validation": 374,
+    "test": 369,
+    "review": 242
+  },
+  "topics": {
+    "train": {
+      "cardio": 136,
+      "exercise_form": 256,
+      "general_fitness": 1719,
+      "nutrition": 404,
+      "programming": 295,
+      "recovery": 179,
+      "supplements": 19
+    },
+    "validation": {
+      "cardio": 20,
+      "exercise_form": 24,
+      "general_fitness": 209,
+      "nutrition": 58,
+      "programming": 36,
+      "recovery": 25,
+      "supplements": 2
+    },
+    "test": {
+      "cardio": 10,
+      "exercise_form": 34,
+      "general_fitness": 225,
+      "nutrition": 55,
+      "programming": 23,
+      "recovery": 20,
+      "supplements": 2
+    },
+    "review": {
+      "cardio": 12,
+      "exercise_form": 41,
+      "general_fitness": 150,
+      "nutrition": 5,
+      "programming": 6,
+      "recovery": 11,
+      "supplements": 17
+    }
+  },
+  "include_needs_review": false,
+  "family_leakage": false
+}
