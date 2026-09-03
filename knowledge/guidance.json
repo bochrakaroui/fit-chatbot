@@ -1,0 +1,58 @@
+[
+  {
+    "id": "who-activity-adults",
+    "title": "WHO physical activity guidance",
+    "text": "For generally healthy adults, build activity gradually and combine aerobic movement with muscle-strengthening work. Some activity is better than none, and volume should reflect current ability.",
+    "source_url": "https://www.who.int/publications/i/item/9789240014886",
+    "topics": ["activity", "cardio", "strength", "beginner", "weekly plan"]
+  },
+  {
+    "id": "who-pregnancy",
+    "title": "WHO guidance for pregnancy and postpartum",
+    "text": "Pregnancy and postpartum exercise recommendations depend on health status and contraindications. Use general guidance only after discussing individual circumstances with a qualified maternity-care professional.",
+    "source_url": "https://www.who.int/publications/i/item/9789240015128",
+    "topics": ["pregnancy", "postpartum", "safety"]
+  },
+  {
+    "id": "nih-performance-supplements",
+    "title": "NIH exercise and athletic-performance supplements",
+    "text": "Supplement benefits and risks vary by ingredient, dose, health status, medications, and product quality. Food, training, and recovery fundamentals should come first; medication interactions require clinician or pharmacist review.",
+    "source_url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+    "topics": ["supplements", "creatine", "caffeine", "protein powder", "medication"]
+  },
+  {
+    "id": "form-squat",
+    "title": "Squat setup principles",
+    "text": "Use a stable stance, maintain pressure across the whole foot, brace the trunk, and let the knees track with the toes. Comfortable stance width, toe angle, and depth vary with anatomy, mobility, load, and goals.",
+    "source_url": "https://www.nsca.com/education/articles/kinetic-select/the-back-squat/",
+    "topics": ["squat", "form", "knees", "depth", "strength"]
+  },
+  {
+    "id": "form-deadlift",
+    "title": "Deadlift setup principles",
+    "text": "Choose a load you can control, brace before lifting, keep the load close, and coordinate hip and knee extension without jerking. Stop the set when technique changes substantially or symptoms appear.",
+    "source_url": "https://www.nsca.com/education/articles/kinetic-select/teaching-the-deadlift/",
+    "topics": ["deadlift", "hinge", "form", "strength"]
+  },
+  {
+    "id": "recovery-basics",
+    "title": "Recovery fundamentals",
+    "text": "Recovery is supported by adequate sleep, regular nutrition, progressive training loads, and easier days. Mild delayed soreness can occur after unfamiliar work, but severe, worsening, or function-limiting symptoms need assessment.",
+    "source_url": "https://www.cdc.gov/sleep/about/index.html",
+    "topics": ["recovery", "sleep", "soreness", "rest"]
+  },
+  {
+    "id": "nutrition-basics",
+    "title": "Nutrition foundations",
+    "text": "Sustainable nutrition starts with adequate energy, varied minimally processed foods, protein sources, fruits or vegetables, hydration, and changes that fit the person's culture, access, and preferences.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "topics": ["nutrition", "protein", "diet", "meal", "fat loss"]
+  },
+  {
+    "id": "progressive-training",
+    "title": "Progressive training principles",
+    "text": "Begin with a manageable dose, practice consistent technique, and progress gradually by changing one variable such as repetitions, sets, load, range, or frequency. Include recovery based on performance and symptoms.",
+    "source_url": "https://www.cdc.gov/physical-activity/php/about/index.html",
+    "topics": ["program", "progressive overload", "sets", "reps", "beginner"]
+  }
+]

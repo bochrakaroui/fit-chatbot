@@ -1,0 +1,16 @@
+{
+  "model_name": "Qwen/Qwen3-1.7B",
+  "output_dir": "artifacts/form-qwen3-1.7b-lora",
+  "train_file": "dataset/splits/train.jsonl",
+  "validation_file": "dataset/splits/validation.jsonl",
+  "max_length": 1024,
+  "epochs": 2,
+  "learning_rate": 0.0001,
+  "batch_size": 2,
+  "gradient_accumulation_steps": 8,
+  "lora_rank": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "use_4bit": true,
+  "seed": 42
+}
