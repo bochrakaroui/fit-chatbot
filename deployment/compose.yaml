@@ -1,0 +1,23 @@
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile.api
+    environment:
+      FIT_CORS_ORIGINS: http://localhost:3000
+      FIT_MODEL_PATH: ${FIT_MODEL_PATH:-}
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ../web
+    environment:
+      FITNESS_API_URL: http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
