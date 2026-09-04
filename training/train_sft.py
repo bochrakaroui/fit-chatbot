@@ -1,4 +1,4 @@
-"""Fine-tune an instruction model with QLoRA and assistant-only loss."""
+"""Fine-tune an instruction model with QLoRA and completion-only loss."""
 
 from __future__ import annotations
 
@@ -7,6 +7,16 @@ import json
 import platform
 import random
 from pathlib import Path
+
+
+def to_prompt_completion(example: dict) -> dict:
+    """Convert a conversation without depending on assistant-mask chat templates."""
+    messages = example.get("messages")
+    if not isinstance(messages, list) or len(messages) < 2:
+        raise ValueError("Training examples must contain at least two messages")
+    if messages[-1].get("role") != "assistant":
+        raise ValueError("The final training message must have the assistant role")
+    return {"prompt": messages[:-1], "completion": [messages[-1]]}
 
 
 def load_dependencies():
@@ -86,6 +96,11 @@ def main() -> None:
             "validation": config["validation_file"],
         },
     )
+    dataset = dataset.map(
+        to_prompt_completion,
+        remove_columns=dataset["train"].column_names,
+        desc="Converting conversations to prompt/completion pairs",
+    )
     lora = LoraConfig(
         r=int(config["lora_rank"]),
         lora_alpha=int(config["lora_alpha"]),
@@ -102,7 +117,8 @@ def main() -> None:
         per_device_eval_batch_size=int(config["batch_size"]),
         gradient_accumulation_steps=int(config["gradient_accumulation_steps"]),
         max_length=int(config["max_length"]),
-        assistant_only_loss=True,
+        assistant_only_loss=False,
+        completion_only_loss=True,
         eval_strategy="steps",
         eval_steps=50,
         save_steps=50,
